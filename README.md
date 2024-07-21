@@ -23,7 +23,7 @@
 
 | <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|
-|PINTEREST CLONE| .[Code](https://github.com/theshivay/Pinterest-clone) |```MERN```| .[Preview] |MARCH 24|
+|PINTEREST CLONE| [Code](https://github.com/theshivay/Pinterest-clone) |```MERN```| .[Preview] |MARCH 24|
 |3D PORTFOLIO| [Link](https://lustrous-vacherin-59db0b.netlify.app/) | ```MERN``` | [Preview] | JANUARY 24 |
 | MOVABLE DOC&NOTE WEB | [Link](https://docsnotes-react-app.netlify.app/) | ```React,Tailwind``` | [Preview]| DECEMBER 23 |
 | ANIMATED WEBSITE| [Link]( https://sprightly-lily-24aada.netlify.app/project%20-1/) | ```Frontend```| [Preview]) | NOVEMBER 23|
