@@ -21,12 +21,12 @@
 
 <h2>⚙️ Projects  </h2>
 
-| <h3>Name</h3> | <h3>Github Repo</h3> | <h3>Techstack</h3> | <h3>Live</h3> | <h3>TimeLine</h3> |
+| <h3>Name</h3> | <h3>Live</h3> | <h3>Techstack</h3> | <h3>TimeLine</h3> |
 |-----------|-----------|-----------|-----------|-----------|
-|PINTEREST CLONE| [Code](https://github.com/theshivay/Pinterest-clone) |```MERN```| .[Preview] |MARCH 24|
-|3D PORTFOLIO| [Link](https://lustrous-vacherin-59db0b.netlify.app/) | ```MERN``` | [Preview] | JANUARY 24 |
-| MOVABLE DOC&NOTE WEB | [Link](https://docsnotes-react-app.netlify.app/) | ```React,Tailwind``` | [Preview]| DECEMBER 23 |
-| ANIMATED WEBSITE| [Link]( https://sprightly-lily-24aada.netlify.app/project%20-1/) | ```Frontend```| [Preview]) | NOVEMBER 23|
+|PINTEREST CLONE| [Code](https://github.com/theshivay/Pinterest-clone) |```MERN```| MARCH 24 |
+|3D PORTFOLIO| [Link](https://lustrous-vacherin-59db0b.netlify.app/) | ```MERN``` | JANUARY 24 |
+| MOVABLE DOC&NOTE WEB | [Link](https://docsnotes-react-app.netlify.app/) | ```React,Tailwind``` | DECEMBER 23 |
+| ANIMATED WEBSITE| [Link]( https://sprightly-lily-24aada.netlify.app/project%20-1/) | ```Frontend```| NOVEMBER 23|
 
 <br>
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
