@@ -22,7 +22,7 @@
 <h2>⚙️ Projects  </h2>
 
 | <h3>Name</h3> | <h3>Live</h3> | <h3>Techstack</h3> | <h3>TimeLine</h3> |
-|-----------|-----------|-----------|-----------|-----------|
+|-----------|-----------|-----------|-----------|
 |PINTEREST CLONE| [Code](https://github.com/theshivay/Pinterest-clone) |```MERN```| MARCH 24 |
 |3D PORTFOLIO| [Link](https://lustrous-vacherin-59db0b.netlify.app/) | ```MERN``` | JANUARY 24 |
 | MOVABLE DOC&NOTE WEB | [Link](https://docsnotes-react-app.netlify.app/) | ```React,Tailwind``` | DECEMBER 23 |
