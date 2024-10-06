@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World, I'm Shivam Mishra</h1>
 <h3 align="center">theshivay</h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=theshivay&color=blueviolet)
@@ -16,7 +16,7 @@
 
 - Campus Ambassador @Letsupgrade
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 <h2>⚙️ Projects  </h2>
@@ -36,7 +36,7 @@
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | <p align="center"><a href="https://www.linkedin.com/in/shivam-mishra-a06654258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivammishra" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/theshivay" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shivammishra" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/24518908/shivam-mishra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shivammishra" height="30" width="40" /></a> </p> | <p align="center"><a href="https://www.instagram.com/shivay__1001/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivammishra" height="30" width="40" /></a></p> |<p align="center"> <a href="https://x.com/ShivamMish88131" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivammishra" height="30" width="40" /></a> </p>|<p align="center"> <a href="https://www.facebook.com/yuvraj.gaming.315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivammishra" height="30" width="40" /></a></p> |
 <br>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 
 
@@ -46,4 +46,4 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshivay&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=theshivay&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 [![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=theshivay&theme=chartreuse-dark)](https://github.com/theshivay/github-readme-activity-graph)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
