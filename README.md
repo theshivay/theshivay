@@ -14,7 +14,7 @@
 
 <h2 align="left">🙎‍♂️ Experience</h2>
 
-- Campus Ambassador @Letsupgrade
+- NVIDIA DGX Trainee @GI Ventures
 <br>
 
 
